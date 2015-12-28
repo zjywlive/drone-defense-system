@@ -1,0 +1,12 @@
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\bin\Debug\Amazon_Pirate_Kinect.exe.config
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\bin\Debug\Amazon_Pirate_Kinect.exe
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\bin\Debug\Amazon_Pirate_Kinect.pdb
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.csprojResolveAssemblyReference.cache
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.Form1.resources
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.Properties.Resources.resources
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.csproj.GenerateResource.Cache
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.exe
+f:\users\stephen\documents\visual studio 2013\Projects\Amazon_Pirate_Kinect\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.pdb
+F:\Users\Stephen\ownCloud\drone-defense-system\Programs\Computer\Amazon_Pirate_Kinect\bin\Debug\Amazon_Pirate_Kinect.exe.config
+F:\Users\Stephen\ownCloud\drone-defense-system\Programs\Computer\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.exe
+F:\Users\Stephen\ownCloud\drone-defense-system\Programs\Computer\Amazon_Pirate_Kinect\obj\Debug\Amazon_Pirate_Kinect.pdb
