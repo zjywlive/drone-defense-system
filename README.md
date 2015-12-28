@@ -9,3 +9,7 @@ TODO:
 -Finish STL model
 
 -Finish controller board - Remove Arduino altogether and make it Pi Hat?
+
+-Make build guide
+
+-Choose weapon
